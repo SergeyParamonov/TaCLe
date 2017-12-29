@@ -1,6 +1,17 @@
 # TaCLe
 ## Experimental data for the TaCLe system and screenshots of the systems
 
+Official paper link:
+
+https://link.springer.com/article/10.1007/s10994-017-5640-x
+
+Pre-print from KU Leuven library:
+
+[Algorithm](https://lirias.kuleuven.be/bitstream/123456789/580741/1/tabular.pdf)
+
+[Demo](https://lirias.kuleuven.be/bitstream/123456789/591414/1/cikm_template.pdf)
+
+
 There are three steps to perform learning in tabular data. For a demonstration, have a look at [the gif demonstraiting the process](https://raw.githubusercontent.com/SergeyParamonov/TaCLe/master/screenshots/fruit_demo.gif) (on the fruit.csv) or at the steps separately on the main demo example:
 
 1. Upload the file via web-interface: [image](https://raw.githubusercontent.com/SergeyParamonov/TaCLe/master/screenshots/demo_file.png)
